@@ -48,7 +48,9 @@ Go to the project directory
 
 ![](https://github.com/mrGain/browser/blob/master/demo/demo1.png)\  
 
-\
+&nbsp;
+&nbsp;
+&nbsp;
 
 ![](https://github.com/mrGain/browser/blob/master/demo/demo2.png)
 
