@@ -46,11 +46,11 @@ Go to the project directory
   
 ## Demo/Example
 
-![](https://github.com/mrGain/browser/blob/master/demo/demo1.png)\\
+![](https://github.com/mrGain/browser/blob/master/demo/demo1.png)\
 
 
 
-![](https://github.com/mrGain/browser/blob/master/demo/demo2.png)
+\![](https://github.com/mrGain/browser/blob/master/demo/demo2.png)
 
   
 ## Documentation
